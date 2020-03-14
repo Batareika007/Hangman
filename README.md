@@ -19,6 +19,7 @@ How to start:
 	Enter file path:c:\words\demo_fruits_words.txt
 	
 * Next you need to input index (only number) - it will choose a word from words list file, by counting them.
+
     --  IF one of the two steps are wrong, game will close immediately --
     
 * That's it, start and try to guess the word!
